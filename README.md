@@ -1,1 +1,2 @@
 # HowExpensiveIsRegexMatching
+![results](results.JPG)
